@@ -46,9 +46,6 @@
 ---
 
 ### 📌 Proyectos destacados
-> Fija 6 repos en **Overview → Customize your pins**.  
-> *(Nómbrelos claro: `algoritmos-js`, `recursividad-js`, `champions-league-landing`, etc.)*
-
 - **algoritmos-js** — Retos de algoritmos con soluciones comentadas.
 - **recursividad-js** — Ejercicios de recursividad paso a paso.
 - **champions-league-landing** — Landing responsive (HTML/CSS/JS).
