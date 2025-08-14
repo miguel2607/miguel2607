@@ -15,16 +15,18 @@
 ### 💡 Sobre mí
 - 🎓 Estudiante de Ingeniería de Software (Colombia).
 - 🧩 Construyo mini-apps web y automatizaciones con **APIs**.
-- 🤖 Trabajo con **n8n** y **Make** (webhooks, Gmail, Sheets, WhatsApp, etc.).
-- ☕ Backend en formación con **Java + Spring Boot** y **Python**; manejo **MySQL** y **PostgreSQL**, y he probado **bases de datos vectoriales** y **Airtable**.
-- 🧰 **Git/GitHub: nivel básico** (crear repos, commits, push, ramas simples, issues y README). Siempre abierto a aprender más.
+- 🤖 **Nivel medio–avanzado en n8n y Make** (webhooks, Gmail, Sheets, WhatsApp, integraciones con APIs).
+- ☕ Backend con **Java (nivel medio–avanzado)** y **Spring Boot**; también uso **Python** y **Django**.
+- 🗄️ Manejo **MySQL** y **PostgreSQL**, y he probado **bases de datos vectoriales** y **Airtable**.
+- 🧰 **Git/GitHub: nivel básico** (repos, commits, push, ramas simples, issues y README).
 - 🙌 Si ves algo por mejorar, **abre un issue o PR** — estoy aprendiendo día a día.
 
 ---
 
-### 🛠️ Tech stack (con nivel)
+### 🛠️ Tech stack (por nivel)
+**Medio–avanzado:** n8n, Make, Java  
+**Intermedio / en uso regular:** Spring Boot, Python, Django, APIs REST  
 **Básico:** HTML, CSS, JavaScript, Git/GitHub, PHP, Node.js  
-**En aprendizaje/uso regular:** Java, Spring Boot, Python, Django, APIs REST, n8n, Make  
 **Bases de datos:** MySQL, PostgreSQL, Airtable, Vector DBs (básico)
 
 <p align="left">
