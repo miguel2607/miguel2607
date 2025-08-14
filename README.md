@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1e3a8a,100:22d3ee&text=Miguel%20Rodr%C3%ADguez&fontSize=44&fontColor=ffffff&fontAlignY=34)
 
 <p align="center">
-  <a href="mailto:TU-CORREO@ejemplo.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Marodriguez_141@cue.edu.co.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contactar-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/miguel-angel-rodriguez-aranzazu-3656b635b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center">
