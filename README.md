@@ -48,6 +48,7 @@
 ---
 
 ### 📌 Proyectos destacados
+- **ClinicaVeterinaria** - Gestion de clinica veterinaria
 - **algoritmos-js** — Retos de algoritmos con soluciones comentadas.
 - **recursividad-js** — Ejercicios de recursividad paso a paso.
 - **champions-league-landing** — Landing responsive (HTML/CSS/JS).
