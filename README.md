@@ -48,6 +48,7 @@
 ---
 
 ### 📌 Proyectos destacados
+- **ConectaSeguros_webPage** - Pagina empresarial 
 - **ClinicaVeterinaria** - Gestion de clinica veterinaria
 - **algoritmos-js** — Retos de algoritmos con soluciones comentadas.
 - **recursividad-js** — Ejercicios de recursividad paso a paso.
